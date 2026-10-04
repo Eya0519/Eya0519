@@ -6,6 +6,15 @@
 
 ---
 
+## 📫 Let's Connect
+
+- 📧 **Email:** guizanieya710@gmail.com
+- 💼 **LinkedIn:** [Eya Guizani](www.linkedin.com/in/eya-guizani)
+- 🐙 **GitHub:** [Eya0519](https://github.com/Eya0519)
+
+---
+
+
 ## 👩‍💻 About Me
 
 I'm a Business Intelligence Engineering student with a background in software development and a growing focus on data and analytics.
@@ -51,30 +60,6 @@ Currently, I'm looking for a **PFE internship** where I can apply my skills, lea
 
 ---
 
-## 🚀 Featured Projects
-
-### 📊 SMA – Site Management Platform | Business Intelligence System
-End-to-end BI solution covering **ETL, data warehousing, data transformation, and interactive dashboards**.
-
-**Tech:** Python · MySQL · dbt · Apache Superset · Angular · Docker
-
-### ☁️ Cloud BI – Real-Time E-Commerce Analytics Pipeline
-Cloud-based BI pipeline for near real-time data processing and analytics using Google Cloud services.
-
-**Tech:** Cloud Storage · Pub/Sub · Cloud Functions · Dataflow · BigQuery · Looker Studio · Python
-
-### 🤖 Job Scope – Machine Learning CV & Job Recommendation System
-Machine learning system for matching candidate CVs with relevant job offers based on semantic similarity.
-
-**Tech:** Python · NLP · TF-IDF · K-Means · GMM · LDA · React
-
-### 📖 Tedabur – Quranic E-Learning & Online Education Platform
-Interactive Quran learning platform with authentication, Tajwid visualization, contact and offers management, and bilingual support.
-
-**Tech:** Angular · Spring Boot · Keycloak · REST APIs · GitLab
-
----
-
 ## 💼 Experience
 
 **Business Intelligence & Data Analytics Intern — Devwise**  
@@ -98,14 +83,5 @@ Interactive Quran learning platform with authentication, Tajwid visualization, c
 - **NVIDIA – Getting Started with Deep Learning** · April 2026
 - **DataCamp – Python Data Associate** · April 2025
 
----
-
-## 📫 Let's Connect
-
-- 📧 **Email:** guizanieya710@gmail.com
-- 💼 **LinkedIn:** [Eya Guizani](YOUR_LINKEDIN_URL)
-- 🐙 **GitHub:** [Eya0519](https://github.com/Eya0519)
-
----
 
 ⭐ Feel free to explore my repositories and projects!
